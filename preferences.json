@@ -1,0 +1,38 @@
+[
+	{
+		"property": "theme.gorgeous_find_bar.horizontal_position",
+		"label": "Horizontal position",
+		"type": "dropdown",
+		"disabledOn": [],
+		"options": [
+			{
+				"label": "Left",
+				"value": "left"
+			},
+			{
+				"label": "Center",
+				"value": "center"
+			},
+			{
+				"label": "Right",
+				"value": "default"
+			}
+		]
+	},
+  {
+		"property": "theme.gorgeous_find_bar.vertical_position",
+		"label": "Horizontal position",
+		"type": "dropdown",
+		"disabledOn": [],
+		"options": [
+			{
+				"label": "Top",
+				"value": "default"
+			},
+			{
+				"label": "Bottom",
+				"value": "bottom"
+			}
+		]
+	}
+]
